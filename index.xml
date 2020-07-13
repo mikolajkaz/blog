@@ -13,12 +13,27 @@
     
     
     <item>
+      <title>Posts</title>
+      <link>/posts/</link>
+      <pubDate>Wed, 08 Jul 2020 18:43:02 +0200</pubDate>
+      
+      <guid>/posts/</guid>
+      <description></description>
+      
+      <content:encoded><![CDATA[]]></content:encoded>
+      
+    </item>
+    
+    <item>
       <title>O mnie</title>
       <link>/about/</link>
       <pubDate>Wed, 08 Jul 2020 18:38:00 +0200</pubDate>
       
       <guid>/about/</guid>
       <description>Nerd, poeta - amator, uwielbia przynudzać. Czasami pisze bloga.</description>
+      
+      <content:encoded><![CDATA[<p>Nerd, poeta - amator, uwielbia przynudzać. Czasami pisze bloga.</p>
+]]></content:encoded>
       
     </item>
     
